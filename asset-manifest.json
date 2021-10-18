@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Photo-Gallary-react-firebase/static/css/main.58641cc6.chunk.css",
+    "main.js": "/Photo-Gallary-react-firebase/static/js/main.a7f72fc5.chunk.js",
+    "main.js.map": "/Photo-Gallary-react-firebase/static/js/main.a7f72fc5.chunk.js.map",
+    "runtime-main.js": "/Photo-Gallary-react-firebase/static/js/runtime-main.15639d86.js",
+    "runtime-main.js.map": "/Photo-Gallary-react-firebase/static/js/runtime-main.15639d86.js.map",
+    "static/css/2.feda8dcb.chunk.css": "/Photo-Gallary-react-firebase/static/css/2.feda8dcb.chunk.css",
+    "static/js/2.89d70fbc.chunk.js": "/Photo-Gallary-react-firebase/static/js/2.89d70fbc.chunk.js",
+    "static/js/2.89d70fbc.chunk.js.map": "/Photo-Gallary-react-firebase/static/js/2.89d70fbc.chunk.js.map",
+    "static/js/3.81ce4f29.chunk.js": "/Photo-Gallary-react-firebase/static/js/3.81ce4f29.chunk.js",
+    "static/js/3.81ce4f29.chunk.js.map": "/Photo-Gallary-react-firebase/static/js/3.81ce4f29.chunk.js.map",
+    "index.html": "/Photo-Gallary-react-firebase/index.html",
+    "static/css/2.feda8dcb.chunk.css.map": "/Photo-Gallary-react-firebase/static/css/2.feda8dcb.chunk.css.map",
+    "static/css/main.58641cc6.chunk.css.map": "/Photo-Gallary-react-firebase/static/css/main.58641cc6.chunk.css.map",
+    "static/js/2.89d70fbc.chunk.js.LICENSE.txt": "/Photo-Gallary-react-firebase/static/js/2.89d70fbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15639d86.js",
+    "static/css/2.feda8dcb.chunk.css",
+    "static/js/2.89d70fbc.chunk.js",
+    "static/css/main.58641cc6.chunk.css",
+    "static/js/main.a7f72fc5.chunk.js"
+  ]
+}
