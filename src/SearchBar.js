@@ -3,12 +3,11 @@ import { Container ,Row,Col, Form, InputGroup} from "react-bootstrap";
 import "./index.css"
 
 function Searchbar({setImages, allImages}) {
-  const searchRef =React.useRef(null);
   const [text, setText] = useState("");
   useEffect(() => {
     setImages(
       allImages.filter((image) => image.data.name.toLowerCase().includes(text.trim())));
-      searchRef.current.focus();
+      
   })
 
 
@@ -27,7 +26,7 @@ function Searchbar({setImages, allImages}) {
                 style={{ boxShadow: "none" }}
                 type="text"
                 placeholder="Search..."
-                ref={searchRef}
+                
                 onChange={(e) =>  setText(e.target.value)}
               />
                </InputGroup>
