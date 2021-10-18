@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&family=Ubuntu:wght@400;700&display=swap');
+
+body {
+  background-color: #1D1E18;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+
+}
+
+.font{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 40px;
+  color: black;
+}
+
+
+.active {
+	font-weight: bold;
+	border-bottom: 1px solid #eee;
+}
+.container {
+
+	width: 80%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 10px;
+  justify-content:"center";
+  text-align:center
+}
+.but{
+	justify-content:right;
+	text-align: right;
+}
+
+.navbar-custom {
+    background-color: #FC7A1E;
+}
