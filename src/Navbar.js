@@ -30,7 +30,7 @@ const NavbarComponent = ({ setImages, images, setAllImages}) => {
     return swal("Error", `The image ${img.name} is already present`, "error");
     
     }
-    if(img){
+    
     const uploadRef = storage.ref(`images/${img.name}`);
     uploadRef.put(img).on(
       "state_change",
@@ -63,7 +63,6 @@ const NavbarComponent = ({ setImages, images, setAllImages}) => {
          
         });
       })
-    }
     };
   return (
     <>
