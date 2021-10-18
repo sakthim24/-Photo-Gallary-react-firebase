@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
      
-      <NavbarComponent  setImages={setImages} setAllImages={setAllImages} images={images} />
+      <NavbarComponent  setImages={setImages} setAllImages={setAllImages} images={allImages} />
       
      <Searchbar setImages={setImages} allImages={allImages}/>
    <Imags images={images}  setImages={setImages}   allImages={allImages}
